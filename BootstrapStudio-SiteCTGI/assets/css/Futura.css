@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'Futura';
+	src: url(../../assets/fonts/Futura-Black-Bold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Futura-Black-Bold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Futura-Black-Bold.woff2) format('woff2'),
+	url(../../assets/fonts/Futura-Black-Bold.woff) format('woff'),
+	url(../../assets/fonts/Futura-Black-Bold.ttf) format('truetype'),
+	url(../../assets/fonts/Futura-Black-Bold.svg) format('svg');
+	font-weight: bold;
+	font-style: normal;
+}

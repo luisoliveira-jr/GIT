@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'Verdana Pro W01';
+	src: url(../../assets/fonts/VerdanaProW01-BoldItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/VerdanaProW01-BoldItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/VerdanaProW01-BoldItalic.woff2) format('woff2'),
+	url(../../assets/fonts/VerdanaProW01-BoldItalic.woff) format('woff'),
+	url(../../assets/fonts/VerdanaProW01-BoldItalic.ttf) format('truetype'),
+	url(../../assets/fonts/VerdanaProW01-BoldItalic.svg) format('svg');
+	font-weight: bold;
+	font-style: italic;
+}
